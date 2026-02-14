@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "A-E-U-I",
+  "base_artist": "THE ORAL CIGARETTES",
+  "createdAt": "2026-02-14T14:47:57.029805Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A-E-U-I",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": false,
+      "path": "select/01_A-E-U-I_THE_ORAL_CIGARETTES.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A-E-U-I",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/02_A-E-U-I_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A-E-U-I (2016.4.30 Live at Nara Centennial Hall)",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/03_A-E-U-I_(2016.4.30_Live_at_Nara_Centennial_Hall)_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A‐E‐U‐I",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/04_A‐E‐U‐I_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "A-E-U-I",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": false,
+      "path": "select/pl_01_A-E-U-I_THE_ORAL_CIGARETTES.txt"
+    }
+  ]
+}
